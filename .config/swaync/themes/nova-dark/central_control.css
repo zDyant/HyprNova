@@ -243,6 +243,10 @@ progressbar {
     font-size: 0.8rem;
 }
 
+picture.mpris-background {
+  opacity: 0;
+}
+
 /* Volume */
 .widget-volume {
   background: @background-sec;
