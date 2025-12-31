@@ -14,7 +14,7 @@
   </h4>
 
 >   [!Caution]
->   Requires [pywal](https://github.com/dylanaraps/pywal) to work
+>   Some files expect you to run [pywal](https://github.com/dylanaraps/pywal) at least once to work
 
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="38" height="38" />
